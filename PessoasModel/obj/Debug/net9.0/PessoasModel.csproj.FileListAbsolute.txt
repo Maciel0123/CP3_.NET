@@ -1,0 +1,11 @@
+C:\Projetos\webapi\PessoasModel\bin\Debug\net9.0\PessoasModel.deps.json
+C:\Projetos\webapi\PessoasModel\bin\Debug\net9.0\PessoasModel.dll
+C:\Projetos\webapi\PessoasModel\bin\Debug\net9.0\PessoasModel.pdb
+C:\Projetos\webapi\PessoasModel\obj\Debug\net9.0\PessoasModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\webapi\PessoasModel\obj\Debug\net9.0\PessoasModel.AssemblyInfoInputs.cache
+C:\Projetos\webapi\PessoasModel\obj\Debug\net9.0\PessoasModel.AssemblyInfo.cs
+C:\Projetos\webapi\PessoasModel\obj\Debug\net9.0\PessoasModel.csproj.CoreCompileInputs.cache
+C:\Projetos\webapi\PessoasModel\obj\Debug\net9.0\PessoasModel.dll
+C:\Projetos\webapi\PessoasModel\obj\Debug\net9.0\refint\PessoasModel.dll
+C:\Projetos\webapi\PessoasModel\obj\Debug\net9.0\PessoasModel.pdb
+C:\Projetos\webapi\PessoasModel\obj\Debug\net9.0\ref\PessoasModel.dll

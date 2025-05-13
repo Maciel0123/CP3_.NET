@@ -1,0 +1,49 @@
+@baseUrl = http://localhost:5263
+@controller = Pessoas
+
+### 🟢 GET - Listar todos os pessoas
+GET {{baseUrl}}/api/{{controller}}
+Accept: application/json
+
+### 🔵 POST - Criar uma nova pessoa
+POST {{baseUrl}}/api/{{controller}}
+Content-Type: application/json
+
+{
+
+  "nome": "Henrique",
+  "EstadoCivil": "Estado Civil Solteiro",
+  "idade": 18
+}
+
+
+### 🔵 POST - Criar uma nova pessoa com id Existente
+POST {{baseUrl}}/api/{{controller}}
+Content-Type: application/json
+
+{
+  "id": "4f804007-d7a9-436f-9ca2-f56b2b0ea10b",
+  "nome": "Joao",
+  "EstadoCivil": "Estado Civil Casado",
+  "idade": 31
+}
+
+### 🟡 GET - Obter pessoa por ID
+GET {{baseUrl}}/api/{{controller}}/4f804007-d7a9-436f-9ca2-f56b2b0ea10b
+Accept: application/json
+
+### 🟠 PUT - Atualizar pessoa por ID
+PUT {{baseUrl}}/api/{{controller}}
+Content-Type: application/json
+
+{
+  "id": "4f804007-d7a9-436f-9ca2-f56b2b0ea10b",
+  "nome": "Joao Atualizado",
+  "EstadoCivil": "Estado Civil Solteiro",
+  "idade": 44
+}
+
+
+### 🔴 DELETE - Remover pessoa por ID
+DELETE {{baseUrl}}/api/{{controller}}/4f804007-d7a9-436f-9ca2-f56b2b0ea10b
+Accept: application/json

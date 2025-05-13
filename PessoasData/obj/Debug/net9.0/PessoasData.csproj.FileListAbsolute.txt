@@ -1,0 +1,17 @@
+C:\Projetos\webapi\PessoasData\bin\Debug\net9.0\PessoasData.deps.json
+C:\Projetos\webapi\PessoasData\bin\Debug\net9.0\PessoasData.runtimeconfig.json
+C:\Projetos\webapi\PessoasData\bin\Debug\net9.0\PessoasData.dll
+C:\Projetos\webapi\PessoasData\bin\Debug\net9.0\PessoasData.pdb
+C:\Projetos\webapi\PessoasData\bin\Debug\net9.0\PessoasModel.dll
+C:\Projetos\webapi\PessoasData\bin\Debug\net9.0\PessoasModel.pdb
+C:\Projetos\webapi\PessoasData\obj\Debug\net9.0\PessoasData.csproj.AssemblyReference.cache
+C:\Projetos\webapi\PessoasData\obj\Debug\net9.0\PessoasData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\webapi\PessoasData\obj\Debug\net9.0\PessoasData.AssemblyInfoInputs.cache
+C:\Projetos\webapi\PessoasData\obj\Debug\net9.0\PessoasData.AssemblyInfo.cs
+C:\Projetos\webapi\PessoasData\obj\Debug\net9.0\PessoasData.csproj.CoreCompileInputs.cache
+C:\Projetos\webapi\PessoasData\obj\Debug\net9.0\PessoasD.5389004E.Up2Date
+C:\Projetos\webapi\PessoasData\obj\Debug\net9.0\PessoasData.dll
+C:\Projetos\webapi\PessoasData\obj\Debug\net9.0\refint\PessoasData.dll
+C:\Projetos\webapi\PessoasData\obj\Debug\net9.0\PessoasData.pdb
+C:\Projetos\webapi\PessoasData\obj\Debug\net9.0\PessoasData.genruntimeconfig.cache
+C:\Projetos\webapi\PessoasData\obj\Debug\net9.0\ref\PessoasData.dll
