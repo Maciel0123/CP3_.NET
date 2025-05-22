@@ -38,8 +38,8 @@ Antes de rodar o projeto, você precisa ter os seguintes programas instalados:
 Instalação:
 
   ```bash 
-  - git clone https://github.com/Maciel0123/CP_3_.NET.git
-  - cd CP_3_.NET
+  - git clone https://github.com/Maciel0123/CP3_.NET.git
+  - cd CP3_.NET
   - dotnet restore
   - dotnet ef database update
   - dotnet run --project Pessoas/Pessoas.csproj
