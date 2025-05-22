@@ -37,11 +37,13 @@ Antes de rodar o projeto, você precisa ter os seguintes programas instalados:
 
 Instalação:
 
-  - git clone https://github.com/Maciel0123/CP_2_.NET.git
-  - cd CP_2_.NET
+  ```bash 
+  - git clone https://github.com/Maciel0123/CP_3_.NET.git
+  - cd CP_3_.NET
   - dotnet restore
   - dotnet ef database update
   - dotnet run --project Pessoas/Pessoas.csproj
+   ```
 
 
 Endpoints disponiveis na API:
